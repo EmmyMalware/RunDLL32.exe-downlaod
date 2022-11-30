@@ -1,0 +1,6 @@
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\bin\Debug\RunDLL32.exe
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\bin\Debug\RunDLL32.pdb
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\obj\Debug\RunDLL32.csproj.AssemblyReference.cache
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\obj\Debug\RunDLL32.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\obj\Debug\RunDLL32.exe
+C:\Users\tanne\source\repos\RunDLL32\RunDLL32\obj\Debug\RunDLL32.pdb
